@@ -58,11 +58,11 @@ export const clientReviews = [
 
 export const myProjects = [
   {
-    title: 'Podcastr - AI Podcast Platform',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+    title: 'IPhone 15 - The Next Leap in Innovation',
+    desc: 'Discover the iPhone 15, Apple’s latest marvel, featuring groundbreaking technology and sleek design. With enhancements in performance, camera capabilities, and display quality, the iPhone 15 sets a new standard for smartphones.',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+      'Designed with cutting-edge materials and advanced engineering, the iPhone 15 integrates seamlessly with iOS 17 to deliver an unparalleled user experience. From its stunning Super Retina XDR display to its powerful A17 Bionic chip, every detail is crafted for excellence.',
+    href: 'https://apple-event-4c3ac.firebaseapp.com/',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -95,11 +95,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'LiveDoc - Real-Time Google Docs Clone',
-    desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
+    title: 'Immersive Virtual Reality Development Platform',
+    desc: 'VRDev is an advanced platform designed for developers to create and explore immersive virtual reality experiences. It offers a suite of powerful tools for building, testing, and refining VR applications, pushing the boundaries of interactive technology.',
     subdesc:
-      'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      'Leveraging the latest in VR technology and development frameworks, VRDev integrates seamlessly with cutting-edge features to deliver a smooth and intuitive experience. From real-time 3D rendering to collaborative VR environments',
+    href: 'https://virtualr-2e4c3.firebaseapp.com/',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
